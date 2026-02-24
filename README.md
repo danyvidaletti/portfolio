@@ -10,14 +10,14 @@
 
 ### Work Experience 
 **Data Analyst @ LinkedIn  (_June 2024 - Present_)**
-• Proactively expanded scope into Go-To-Market operations, building functional context
+- Proactively expanded scope into Go-To-Market operations, building functional context
 and partnering cross-functionally to translate business needs into structured, data-driven
 solutions.
-• Designed and delivered data solutions (SQL & Python) that translated complex operational
+- Designed and delivered data solutions (SQL & Python) that translated complex operational
 and compensation requirements into actionable reporting insights for GTM stakeholders.
-• Strengthened QA processes through structured testing, acceptance criteria definition, and
+- Strengthened QA processes through structured testing, acceptance criteria definition, and
 edge-case validation, reducing reporting inconsistencies.
-• Contributed to an AI-driven operational initiative by creating structured documentation and
+- Contributed to an AI-driven operational initiative by creating structured documentation and
 reproducible workflows to improve team efficiency.
 
 ### Projects
