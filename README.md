@@ -21,6 +21,8 @@ edge-case validation, reducing reporting inconsistencies.
 reproducible workflows to improve team efficiency.
 
 ### Projects
+
+Names:
 - agentic-ai-support-agent
 - brazil-gov-travel-analysis 
 - Focus-Insightful-Timing-Webpage 
@@ -28,7 +30,11 @@ reproducible workflows to improve team efficiency.
 - BetterRest 
 - GuessTheFlag 
 - TimeConverter 
-- WeSplit 
+- WeSplit
+
+Example: 
+(Explain what the projet is about) Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+(include an image) ![Bike Study](/assets/img/bike_study.jpeg)
 
 ### Industry Certification
 - Microsoft Azure AZ-900
