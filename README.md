@@ -21,8 +21,14 @@ edge-case validation, reducing reporting inconsistencies.
 reproducible workflows to improve team efficiency.
 
 ### Projects
--
-- 
+- agentic-ai-support-agent
+- brazil-gov-travel-analysis 
+- Focus-Insightful-Timing-Webpage 
+- WordScramble 
+- BetterRest 
+- GuessTheFlag 
+- TimeConverter 
+- WeSplit 
 
 ### Industry Certification
 - Microsoft Azure AZ-900
